@@ -1,4 +1,35 @@
-html {
-  height: 100%;
-  width: 100%;
+body{
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+h3 {
+  line-height: 0.5;
+}
+p{
+  line-height: 1;
+}
+h4{
+  line-height: 1;
+}
+
+body{
+  background-color: rgb(129, 126, 126)
+}
+
+.one{
+  background-color: rgb(26, 19, 73);
+  color: rgb(255, 255, 255);
+  padding: 20px;
+  margin: 20px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+}
+
+.two{
+  background-color: rgb(21, 64, 86);
+  color: rgb(255, 255, 255);
+  padding: 20px;
+  margin: 20px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
 }
